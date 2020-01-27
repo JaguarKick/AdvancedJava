@@ -4,7 +4,7 @@ import java.net.*;
 public class ServerDemo {
 	
 	private static ServerSocket server = null;
-	private static int port = 3345;
+	private static int port = 666;
 	private static Socket socks = null;
 	
 	private static void initServer() throws Exception{
